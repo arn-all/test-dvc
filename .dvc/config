@@ -1,2 +1,5 @@
 [core]
     analytics = false
+    remote = test-dvc
+['remote "test-dvc"']
+    url = ssh://allera@132.166.68.152:/home/allera/dvc_test_repo
